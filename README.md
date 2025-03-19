@@ -2,7 +2,7 @@
 A dynamic parkour system for Unity, allowing the player to **vault over obstacles** with randomized animations. The system detects obstacles and selects a suitable parkour action based on height and other factors.  
 
 ![Parkour GIF](https://i.imgur.com/oWpaBbN.gif)  
-
+YT: https://youtu.be/ro-JPLQKGxo
 ## **Features**  
 ✅ Randomized parkour actions for obstacles  
 ✅ Uses `ScriptableObject` for easy animation configuration  
